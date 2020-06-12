@@ -4,7 +4,7 @@ This repository is for the Relational Walk model (RelWalk) that performs a rando
 
 # Prerequisites 
 
-The implementation of the RelWalk is built upon [OpenKE](https://github.com/thunlp/OpenKE/tree/OpenKE-Tensorflow1.0) that is implemented with TensorFlow. To implementation the code in this project requires:
+The implementation of the RelWalk is built upon [OpenKE](https://github.com/thunlp/OpenKE/tree/OpenKE-Tensorflow1.0) that is implemented with TensorFlow. The code in this project requires:
 
 
      - python 
