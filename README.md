@@ -10,4 +10,4 @@ The implementation of the RelWalk is built upon [OpenKE](https://github.com/thun
      - python 
      - tensorflow
 
-# Code
+# Pre-trained RelWalk Embeddings
