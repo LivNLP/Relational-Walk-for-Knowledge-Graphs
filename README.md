@@ -11,8 +11,8 @@ The implementation of the RelWalk is built upon [OpenKE](https://github.com/thun
      - tensorflow
 
 # Pre-trained RelWalk Embeddings
-- FB15K-237 [download](https://www.dropbox.com/s/akgy0h91q66a1dv/KGEs_d100.npy?dl=0)
-- WN18RR [download]()
-- FB13 [Download]()
+- FB15K-237 [download](https://www.dropbox.com/s/nc20558oanw92gt/FB15K237_KGEs_d100.npy?dl=0)
+- WN18RR [download](https://www.dropbox.com/s/8td36bh5t7eo9df/WN18RR_KGEs_d100.npy?dl=0)
+- FB13 [Download](https://www.dropbox.com/s/fg8mikh2twzqbzo/FB13_KGEs_d100.npy?dl=0)
 
 To read the embeddings, use Read_Embeddings.py script in this repository. 
